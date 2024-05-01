@@ -1,0 +1,12 @@
+IV. Định tuyến
+Hướng gói tin từ mạng nguồn tới mạng đích
+Hop by Hop
+1. Định tuyến tĩnh
+2. Định tuyến động
+2.1 DV vs LS
+2.2 Classfull vs Classlass
+2.3 IGP vs EGP
+
+Giao thức định tuyến
+Ripv1 dv, classfull, igp
+Ripv2 
